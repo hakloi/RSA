@@ -9,3 +9,4 @@ RSA относится к ассимитричному шифрованию. В 
 Для нахождения простых чисел в диапазоне [2, 10⁶] воспользуемся *решетом Эратосфена*.
 
 ![Sieve of Eratosthenes](img\Animation_Sieve_of_Eratosth.gif)
+![Sieve of Eratosthenes](img\tree.jpg)
