@@ -10,6 +10,25 @@ RSA относится к ассимитричному шифрованию. В 
 
 ![Sieve of Eratosthenes](./img/Animation_Sieve_of_Eratosth.gif)
 
+## Инструкция:
+
+1. Клонируем репозиторий: 
+>git clone https://github.com/hakloi/RSA.git
+
+2. Заходим в папку caesar_cipher: 
+>cd caesar_cipher
+
+3. Устанавливаем зависимости: 
+>pip install -r requirements.txt
+
+4. Для запуска программы: 
+>python src/rsa.py
+>следуй инструкциям
+
+5. Запустить тесты:
+>python -m tests.test_rsa
+
+
 ## Структура проекта:
 
 tree /F
